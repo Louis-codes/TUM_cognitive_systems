@@ -11,14 +11,10 @@
             "id": "8f1157fa420c49f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Biological Neurons & Spiking Neural Networks/4. Biological Neurons & Spiking Neural Networks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. Biological Neurons & Spiking Neural Networks"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -190,12 +186,32 @@
   },
   "active": "8f1157fa420c49f9",
   "lastOpenFiles": [
+    "6. Reinforcement Learning/1. RL Foundations/1. RL Foundations.md",
+    "4. Biological Neurons & Spiking Neural Networks/4. Biological Neurons & Spiking Neural Networks.md",
+    "6. Reinforcement Learning/2. RL Learning Methods/2.3 Deep Reinforcement Learning (DRL).md",
+    "6. Reinforcement Learning/2. RL Learning Methods/2.2 Temporal Difference Learning (TD).md",
+    "6. Reinforcement Learning/2. RL Learning Methods/2.1 Monte Carlo (MC) Methods.md",
+    "6. Reinforcement Learning/2. RL Learning Methods/2. RL Learning Methods.md",
+    "6. Reinforcement Learning/2. RL Learning Methods",
+    "6. Reinforcement Learning/1. RL Foundations/1.2 Generalized Policy Iteration (GPI)/Value Functions.md",
+    "6. Reinforcement Learning/1. RL Foundations/1.2 Generalized Policy Iteration (GPI)/Bellman Equations.md",
+    "6. Reinforcement Learning/1. RL Foundations/1.2 Generalized Policy Iteration (GPI)/1.2 Generalized Policy Iteration (GPI).md",
+    "6. Reinforcement Learning/1. RL Foundations/1.1 Markov Decision Process (MDP)/SARPγ Tuple.md",
+    "6. Reinforcement Learning/1. RL Foundations/1.1 Markov Decision Process (MDP)/Reward & Observation.md",
+    "6. Reinforcement Learning/1. RL Foundations/1.1 Markov Decision Process (MDP)/Markov Property.md",
+    "6. Reinforcement Learning/1. RL Foundations/1.1 Markov Decision Process (MDP)/Environment.md",
+    "6. Reinforcement Learning/1. RL Foundations/1.1 Markov Decision Process (MDP)/Agent.md",
+    "6. Reinforcement Learning/1. RL Foundations/1.1 Markov Decision Process (MDP)/Action.md",
+    "6. Reinforcement Learning/1. RL Foundations/1.1 Markov Decision Process (MDP)/1.1 Markov Decision Process (MDP).md",
+    "6. Reinforcement Learning/1. RL Foundations/1.3 Dynamic Programming (DP).md",
+    "6. Reinforcement Learning/1. RL Foundations/1.2 Generalized Policy Iteration (GPI)",
+    "6. Reinforcement Learning/1. RL Foundations/1.1 Markov Decision Process (MDP)",
+    "6. Reinforcement Learning/1. RL Foundations",
     "Cognitive Systems (Context Note).md",
     "6. Reinforcement Learning/6. Reinforcement Learning.md",
     "6. Reinforcement Learning",
     "5. Machine Learning/5. Machine Learning.md",
     "5. Machine Learning",
-    "4. Biological Neurons & Spiking Neural Networks/4. Biological Neurons & Spiking Neural Networks.md",
     "4. Biological Neurons & Spiking Neural Networks",
     "3. Human Brain/3. Human Brain.md",
     "3. Human Brain",
