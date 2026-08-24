@@ -1,0 +1,10 @@
+# macOS filesystem metadata
+.DS_Store
+
+# Obsidian local UI state
+00_cog_sys_obsidian/.obsidian/workspace.json
+00_cog_sys_obsidian/.obsidian/workspace-mobile.json
+00_cog_sys_obsidian/.obsidian/graph.json
+00_cog_sys_obsidian/.obsidian/backlink.json
+00_cog_sys_obsidian/.obsidian/cache/
+00_cog_sys_obsidian/.trash/
