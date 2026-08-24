@@ -18,34 +18,21 @@
             }
           },
           {
-            "id": "8f1157fa420c49f9",
+            "id": "610e22d37b972d5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cognitive Systems (Context Note).md",
+                "file": "6. Reinforcement Learning/1. RL Foundations/1.1 Markov Decision Process (MDP)/1.1 Markov Decision Process (MDP).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cognitive Systems (Context Note)"
-            }
-          },
-          {
-            "id": "e29117e9bee22dd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Machine Learning/🤖📊 5. Machine Learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🤖📊 5. Machine Learning"
+              "title": "1.1 Markov Decision Process (MDP)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,7 +199,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "00852ce63319f1f7",
+  "active": "610e22d37b972d5a",
   "lastOpenFiles": [
     "3. Human Brain/3.6 Whole-Brain Modeling.md",
     "3. Human Brain/3.5 Neuron Models/3.5.2 Spiking Neuron Models.md",
@@ -244,7 +231,6 @@
     "3. Human Brain/2. Functional Organization of Cognition",
     "3. Human Brain/1. Anatomy of the Nervous System/1.3 Peripheral Nervous System.md",
     "3. Human Brain/1. Anatomy of the Nervous System/1.2 Brainstem & Diencephalon.md",
-    "3. Human Brain/1. Anatomy of the Nervous System/1.1 Cerebrum & Cerebral Cortex.md",
     "3. Human Brain/1. Anatomy of the Nervous System",
     "6. Reinforcement Learning/2. RL Learning Methods",
     "6. Reinforcement Learning/1. RL Foundations/1.2 Generalized Policy Iteration (GPI)",
