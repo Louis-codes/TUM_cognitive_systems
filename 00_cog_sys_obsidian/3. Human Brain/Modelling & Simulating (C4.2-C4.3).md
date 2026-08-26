@@ -1,6 +1,7 @@
-
-
-
+---
+tags:
+  - brain
+---
 
 #### Related
 [[3.5 Neuron Models]]
