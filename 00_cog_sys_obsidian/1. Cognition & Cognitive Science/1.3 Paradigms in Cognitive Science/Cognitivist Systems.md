@@ -8,12 +8,7 @@ tags:
 
 Cognitivist cognitive modeling rests on the hypothesis that cognition is a form of computation and that cognitive functions can be modeled as working computer programs.
 
-### Cognitivism and AI
 
-- Cognitivism started as a sister discipline of Artificial Intelligence during a summer school at Dartmouth College in 1956.
-- Central hypothesis: cognition is achieved by operations on symbols that have a one-to-one correspondence to real-world actions and objects.
-- External information from the environment is gathered and filtered by perceptual processes.
-- Over time the focus of AI shifted to purely computational techniques; AI with a focus on cognition is today called Artificial General Intelligence.
 
 ### Philosophy of mind and the mind-body problem
 
@@ -45,16 +40,7 @@ The concept of Physical Symbol Systems (PSS) by Newell and Simon lays the theore
 | Physical Symbol System Hypothesis | A physical symbol system has the necessary and sufficient means for general intelligent action | Every cognitive system is a physical symbol system |
 | Heuristic Search Hypothesis | Solutions are represented as symbol structures; a PSS exercises its intelligence in problem-solving by search, generating and progressively modifying symbol structures until it produces a solution structure | Cognition is reflected in an intelligent search strategy that finds a solution without exhaustive brute-force search |
 
-### Rationality
 
-Rationality means that an agent acts in a sensible and purposeful way to achieve its goals, always using as much of its knowledge as possible to guide its behavior.
-
-| View | Statement |
-| ---- | --------- |
-| Optimal rationality | An ideal agent, "given its belief-desire system, optimizes its choices"; not feasible in reality |
-| Bounded rationality | "Rationality as exhibited by decision makers of limited abilities" |
-
-Rationality depends on the success criterion, the agent's prior knowledge of the environment, the actions it can perform, and past percepts.
 
 
 #### Related
