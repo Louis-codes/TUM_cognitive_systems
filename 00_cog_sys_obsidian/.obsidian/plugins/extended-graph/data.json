@@ -332,7 +332,7 @@
   "collapsedSettings": {
     "automation": false,
     "tags": true,
-    "properties": true,
+    "properties": false,
     "links": true,
     "arrows": true,
     "folders": true,
@@ -341,7 +341,7 @@
     "focus": true,
     "shapes": true,
     "layers": true,
-    "elements-stats": true,
+    "elements-stats": false,
     "names": true,
     "zoom": true,
     "local-graph": true,

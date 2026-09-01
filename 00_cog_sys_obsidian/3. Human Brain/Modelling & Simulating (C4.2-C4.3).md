@@ -7,5 +7,5 @@ tags:
 
 
 #### Related
-[[🧠 3. Human Brain]]
+[[3. Human Brain]]
 

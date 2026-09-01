@@ -12,4 +12,4 @@ The biological object itself: how the nervous system is built, how cognitive fun
 
 
 #### Related
-[[🧠 3. Human Brain]]
+[[3. Human Brain]]
