@@ -113,18 +113,14 @@
         "showAttachments": false,
         "showOrphans": true,
         "showTags": false,
-        "localBacklinks": true,
-        "localForelinks": true,
-        "localInterlinks": false,
-        "localJumps": 1,
         "lineSizeMultiplier": 1,
-        "nodeSizeMultiplier": 1,
+        "nodeSizeMultiplier": 1.07786528150134,
         "showArrow": false,
         "textFadeMultiplier": 0,
-        "centerStrength": 0.5187132489703118,
+        "centerStrength": 0.0985254691689008,
         "linkDistance": 250,
         "linkStrength": 1,
-        "repelStrength": 10
+        "repelStrength": 9.34763181411975
       },
       "toggleTypes": {
         "tag": [],
@@ -144,7 +140,7 @@
     }
   ],
   "startingStateID": "default-vault",
-  "syncDefaultState": false,
+  "syncDefaultState": true,
   "saveConfigsWithState": false,
   "customColorMaps": {},
   "imageProperties": [

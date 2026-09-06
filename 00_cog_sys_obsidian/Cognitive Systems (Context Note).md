@@ -1,5 +1,5 @@
 ---
-node_size: 80
+node_size: 150
 ---
 
 Context note for LLM chats. Anyone reading this vault should understand here what it contains and then jump into the matching sub note.
