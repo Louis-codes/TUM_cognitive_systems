@@ -3,7 +3,7 @@ tags:
   - rl
 ---
 
-1.2 Generalized Policy Iteration (GPI)
+
 
 
 
