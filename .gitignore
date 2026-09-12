@@ -8,3 +8,6 @@
 00_cog_sys_obsidian/.obsidian/backlink.json
 00_cog_sys_obsidian/.obsidian/cache/
 00_cog_sys_obsidian/.trash/
+
+# VS Code workspace configuration
+/00-cognitive-systems.code-workspace
