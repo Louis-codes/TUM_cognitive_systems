@@ -120,7 +120,7 @@
         "centerStrength": 0.518713248970312,
         "linkDistance": 250,
         "linkStrength": 1,
-        "repelStrength": 10
+        "repelStrength": 20
       },
       "toggleTypes": {
         "tag": [],
